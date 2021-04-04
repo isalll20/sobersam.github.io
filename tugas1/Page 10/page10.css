@@ -1,0 +1,32 @@
+body{
+    background-color: #3cff00;
+    font-family: monospace;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #0037ff;
+    border-style: dashed;
+} 
+.s1{
+    width: 400px;
+    height: 200px;
+    border: #ff0400;
+    border-style: double;
+}
+
+.box1 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #ffee00;
+    border-style: ridge;
+  }
+  .after-box {
+    clear: left;
+    border: #00fff2;
+    border-style: solid;
+  }

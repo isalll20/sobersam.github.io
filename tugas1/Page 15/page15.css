@@ -1,0 +1,27 @@
+body{
+    background-color: #030101;
+    font-family: monospace;
+    color: #deff23;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #f1a305;
+    border-style: dashed;
+  }
+  .after-box {
+    clear: left;
+    border: #ffa800;
+    border-style: solid;
+  }
+
+  .box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #0011ff;
+    border-style: solid;
+  }

@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+    background-color: #ffa800;
+    color: #131c3d;
+}
+div img {
+    float: right;
+    width: 50%;
+    min-width: 100px;
+    min-height: 100px;
+  }
+
+nav {
+    float: left;
+    width: 25%;
+    border: #0014c4;
+    border-style: solid;
+  }
+  section {
+    margin-left: 25%;
+    border: #0026ff;
+    border-style: solid;
+  }

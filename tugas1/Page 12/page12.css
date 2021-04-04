@@ -1,0 +1,16 @@
+body{
+    background-color: #665833;
+    font-family: monospace;
+    color: #33ff00;
+}
+nav {
+    float: left;
+    width: 200px;
+    border: #002fff;
+    border-style:double;
+  }
+section {
+    margin-left: 200px;
+    border: #ff0000;
+    border-style:ridge;
+  }

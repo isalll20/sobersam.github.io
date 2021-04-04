@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: #c0f500;
+    font-family: Arial;
+  }
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    float: left;
+  }
+
+.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 75%;
+  }
+.cover{
+    border: #ffab02;
+    border-style: solid;
+  }

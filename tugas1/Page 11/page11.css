@@ -1,0 +1,23 @@
+body{
+    background-color: #741614;
+    font-family: monospace;
+    color: #000000;
+}
+img {
+    float: right;
+    width: 15%;
+    height: 20%;
+  }
+
+.luar{
+    background-color: #0051ff;
+  }
+
+.luar2{
+    background-color: #eeff00;
+}
+  
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+  }

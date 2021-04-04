@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    color: #ffa800;
+    font-family: Arial;
+}
+@media (min-width:600px) {
+    nav {
+      float: left;
+      width: 25%;
+      border: #0037ff;
+      border-style: ridge ;
+    }
+    section {
+      margin-left: 25%;
+      border: #ffffff;
+      border-style:solid;
+    }
+  }
+  @media (max-width:599px) {
+    nav li {
+      display: inline;
+    }
+  }
