@@ -1,0 +1,9 @@
+body{
+  font-family: 'Times New Roman';
+  color: #f73939;
+  background-color: #74dfff;
+}
+#main {
+    width: 600px;
+    margin: 0 auto; 
+  }

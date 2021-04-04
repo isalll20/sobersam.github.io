@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #f73939;
+    width: 500px;
+    background-color: #80ff74;
+}
+h1{
+    font-size: 32px;
+    font-family: Arial;
+    color: red;
+}
+p{
+    font-size: 16px;
+}
+div{
+    border-width: 5px;
+    border-style: dashed;
+    font-size: 15px;
+    border-color: yellow;
+}
+span{
+    font-weight: bold;
+}
+span1{
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: Arial;
+}
+span2{
+    opacity: 50%;
+}

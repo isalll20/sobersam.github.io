@@ -1,0 +1,33 @@
+body{
+    background-color: #3daa43;
+    font-family: monospace;
+  }
+  .container {
+      position: relative;
+      border: #ffd900;
+      border-style: ridge;
+    }
+    nav {
+      position: absolute;
+      left: 0px;
+      width: 200px;
+      border: #0037ff;
+      border-style: ridge;
+    }
+    section {
+      /* position is static by default */
+      margin-left: 200px;
+      border: #f700ff;
+      border-style: ridge;
+    }
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      height: 70px;
+      background-color: rgb(228, 74, 74);
+      width: 100%;
+    }
+    body {
+      margin-bottom: 120px;
+    }

@@ -1,0 +1,15 @@
+body{
+    background-color: #000000;
+    font-family: monospace;
+    color: #eca71c;
+  }
+  div{
+    font-size: 15px;
+    margin: 0 0 1em 1em;
+    background-color: #7c7e1a;
+  }
+  img {
+    float: right;
+    image-resolution:initial;
+    margin: 0 0 1em 1em;
+  }

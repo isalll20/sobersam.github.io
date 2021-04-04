@@ -1,0 +1,24 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border : solid crimson 12px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  .fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border: solid cornflowerblue 16px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+
+body{
+    background-color: #f0f357;
+    color: #000000;
+    font-family: 'Times New Roman';
+}
